@@ -1,1 +1,1 @@
-# checkou.github.io
+# checkout.github.io
